@@ -161,7 +161,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-**Your Name** - [@yourusername](https://github.com/ClydeCenteno1)
+**Your Name** - [@ClydeCenteno1](https://github.com/ClydeCenteno1)
 
 Project Link: [https://github.com/ClydeCenteno1/username-validator](https://github.com/ClydeCenteno1/username-validator)
 
